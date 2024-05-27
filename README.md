@@ -22,7 +22,8 @@
   - Aggregate Report
 ### Kết quả kiểm tra:
 
-![image](https://github.com/quocbinh93/JMeter/assets/96821644/a22ed4bb-a39d-43e2-8093-5681495311c9)
+![image](https://github.com/duong-van-ngoc/Jmeter/assets/96899294/ea2a4177-4933-415d-8657-7040201c224a)
+
 
 
 ### Phân tích kết quả kiểm tra:
@@ -37,7 +38,7 @@
 
 Trang web https://phenikaa-uni.edu.vn/vi có hiệu năng tốt. Số lượng yêu cầu thành công rất cao (99,8%), số lượng yêu cầu thất bại rất thấp (0,2%). Thời gian phản hồi trung bình, trung vị và percentil 90 đều ở mức thấp (dưới 100 ms). Chuyển tải của trang web cũng khá cao (16 yêu cầu/giây).
 ### Hình ảnh tổng quát
-![image](https://github.com/quocbinh93/JMeter/assets/96821644/dab81193-b61b-49b9-9386-d775ec357874)
+![image](https://github.com/duong-van-ngoc/Jmeter/assets/96899294/2314a425-7f3c-4065-ab01-23f2b970f811)
 
 
 ## Kiểm tra hiệu năng API
@@ -63,7 +64,8 @@ Trang web https://phenikaa-uni.edu.vn/vi có hiệu năng tốt. Số lượng y
   - Aggregate Report
 ### Kết quả kiểm tra:
 
-![image](https://github.com/quocbinh93/JMeter/assets/96821644/d82c597c-dad1-425e-b717-47d019b41224)
+![image](https://github.com/duong-van-ngoc/Jmeter/assets/96899294/b2c6c122-55a9-4815-acb9-c833fc4f948a)
+
 
 
 
